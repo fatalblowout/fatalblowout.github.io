@@ -7,6 +7,9 @@ title: "Fatal Blowout 2021 : Home"
   background-image: url("lufia-mimics-bg.png");
   background-position: center;
   }
+.project-name {
+  text-shadow: 2px 2px 14px #000000;
+  }
 </style>
 
 ## Welcome!
