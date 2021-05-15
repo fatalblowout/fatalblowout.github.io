@@ -1,5 +1,5 @@
 ---
-title: Fatal Blowout 2021 : Home
+title: "Fatal Blowout 2021 : Home"
 ---
 
 ## Welcome!
