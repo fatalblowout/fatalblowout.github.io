@@ -2,6 +2,10 @@
 title: "Fatal Blowout 2021 : Home"
 ---
 
+<style type="text/css" markdown="0">
+.page-header {background-image: url("lufia-mimics-bg.png")}
+</style>
+
 ## Welcome!
 
 You can use the [editor on GitHub](https://github.com/fatalblowout/fatalblowout.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
